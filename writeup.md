@@ -20,6 +20,7 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image1]: ./examples/undistort_output.png "Undistorted"
+
 [image2]: ./test_images/test1.jpg "Road Transformed"
 [image3]: ./examples/binary_combo_example.jpg "Binary Example"
 [image4]: ./examples/warped_straight_lines.jpg "Warp Example"
@@ -34,6 +35,8 @@ The goals / steps of this project are the following:
 [png5]: ./output_images/slide windows.png "slide windows"
 [png6]: ./output_images/slide windows polyfit.png "slide windows polyfit"
 [png7]: ./output_images/Calculate Curve.png "Calculate Curve"
+
+
 ---
 
 ### Camera Calibration
