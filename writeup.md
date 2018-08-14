@@ -28,12 +28,15 @@ The goals / steps of this project are the following:
 [image6]: ./examples/example_output.jpg "Output"
 [video1]: ./project_video.mp4 "Video"
 [video2]: ./project_video_output.mp4 "Video_Output"
+
 [png1]: ./output_images/all images.png "all images"
+
 [png2]: ./output_images/calibration.png "calibration"
 [png3]: ./output_images/undistorted.png "undistorted"
 [png4]: ./output_images/Unwarped Image.png "Unwarped Image"
 [png5]: ./output_images/slide windows.png "slide windows"
 [png6]: ./output_images/slide windows polyfit.png "slide windows polyfit"
+
 [png7]: ./output_images/Calculate Curve.png "Calculate Curve"
 
 
